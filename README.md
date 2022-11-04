@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpress&label=Profile%20views&color=0e75b6&style=flat" alt="amitpress" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitpress" alt="amitpress" /></a> </p>
-
+***Achievement:***
+[![@amitmalaker's Holopin board](https://holopin.me/amitmalaker)](https://holopin.io/@amitmalaker)
 - 🔭 I’m currently working on [SPA Router Demonstration](https://github.com/AmitPress/spa-router-demonstration)
 
 - 🌱 I’m currently learning **Networking, Backend Routing, GANs**
@@ -23,10 +24,9 @@
 
 - ⚡ Work Status **Available for a job offer**
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-[![@amitmalaker's Holopin board](https://holopin.me/amitmalaker)](https://holopin.io/@amitmalaker)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amitkumarmalaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amitkumarmalaker" height="30" width="40" /></a>
